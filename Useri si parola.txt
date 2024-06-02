@@ -1,0 +1,11 @@
+1. Puscasu Marin - user: mp123, mail: marin.puscasu@hotmail.com, parola: 1234
+2. John Doe - user jd2109, mail: john.doe@yahoo.com, parola: parola
+3. user: admin, parola: admin.
+4. user: jamal, parola: jamal.
+5. manager: slupu, parola: slupu
+6. user: rm123, parola: madrid
+7. user: tobik, parola: tobi
+8. user: flolo, parola: moldova
+9. manager: sinzi,parola: sinzi
+10.manager: braimond, parola: honkai
+11.user: ss24, parola:supersorin
